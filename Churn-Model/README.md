@@ -1,3 +1,3 @@
-# ML-6
-Churn model
+
+# Churn model
 
