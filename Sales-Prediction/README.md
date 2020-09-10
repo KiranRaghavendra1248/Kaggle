@@ -1,3 +1,2 @@
-# ML-2
-Sales Prediction (Simple Linear regression)
+# Sales Prediction 
   Consists of only numerical features, no categorical ones
