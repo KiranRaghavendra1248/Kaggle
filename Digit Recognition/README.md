@@ -1,2 +1,2 @@
-# ML-7
-Fashion MNIST
+# Fashion MNIST
+
